@@ -118,7 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:fontFamily="@font/montserrat"
-        android:text="Cinepolis21 Lippo Cikarang, Cinema 3"
+        android:text="Cinema Surabaya"
         android:textColor="@color/colorWhite"
         android:textSize="12sp"
         android:textStyle="bold"
