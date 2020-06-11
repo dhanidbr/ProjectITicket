@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822969284677",
+    "firebase_url": "https://iticket-16381.firebaseio.com",
+    "project_id": "iticket-16381",
+    "storage_bucket": "iticket-16381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822969284677:android:37ba4f990418679a85cb2c",
+        "android_client_info": {
+          "package_name": "com.example.iticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822969284677-449ehqr2lqvud4rs3ddf0pg4san0ub54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iticket",
+            "certificate_hash": "72a6ceb9bfd0af95d71707925d4f1f1000349261"
+          }
+        },
+        {
+          "client_id": "822969284677-rm9dm0tv5o6nsv41g5vbrn0fb44s1uuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5RRhRMEvK56SuX1KHv6dnt3Rfu898VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822969284677-rm9dm0tv5o6nsv41g5vbrn0fb44s1uuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
